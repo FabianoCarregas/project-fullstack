@@ -11,7 +11,7 @@ const Home = () =>  {
             <h1 className="display-4">Fab-lous-Sales</h1>
             <p className="lead">Check your sales out, in real time with our platform! </p>
             <hr/>
-            <p>This Application you provide you with an immersive experience from an app developed from scratch, through  Spring Boot backend, Angular frontend Frameworks.</p>
+            <p>This Application will provide an immersive experience from an app developed from scratch, through  Spring Boot backend, Angular frontend Frameworks.</p>
             <Link className="btn btn-primary btn-lg" to="/dashboard">
                 Dashboard
             </Link>    

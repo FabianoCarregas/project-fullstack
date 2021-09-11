@@ -19,11 +19,11 @@ const Dashboard = () => {
                     <div className="col-sm-6">
                         <h5 className="text-center text-secondary">All Sales</h5>
                         <DonutChart />
-                        
+
                     </div>
                 </div>
                 <div className="py-3">
-                    <h2 className="text-primary"> All Sales</h2>
+                    <h2 className="text-primary">Sales</h2>
                 </div>
 
                 <DataTable />
