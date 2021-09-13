@@ -11,11 +11,7 @@ Fab-lous-sales é uma aplicação full stack web e mobile construída durante a 
 A aplicação consiste em uma plataforma de amazenamento de vendas e vendedores contabolizando a taxa de sucesso de vendas e vendedores mais bem qualificados.
 
 ## Layout mobile
-![Mobile 1](https://github.com/FabianoCarregas/project-fullstack/blob/master/assets/fullstack-phone.jpeg)
-
-![Mobile 1](https://github.com/FabianoCarregas/project-fullstack/blob/master/assets/fullstack-phone2.jpeg)
-
-![Mobile 1](https://github.com/FabianoCarregas/project-fullstack/blob/master/assets/fullstack-phone3.jpeg)
+![Mobile 1](https://github.com/FabianoCarregas/project-fullstack/blob/master/assets/phone%20(1).jpeg)
 
 ## Layout web
 ![Web 1](https://github.com/FabianoCarregas/project-fullstack/blob/master/assets/fullstack1.png)
