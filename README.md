@@ -2,11 +2,9 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/FabianoCarregas/project-fullstack/blob/add-license-1/LICENSE)
 
 # Fab-lous-sales   
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/neliocursos/exemplo-readme/blob/main/LICENSE) 
+https://fab-lous-shop.netlify.app/
 
 # Sobre o projeto
-
-https://fab-lous-shop.netlify.app/
 
 Fab-lous-sales é uma aplicação full stack web e mobile construída durante a **Semana DevSuperior**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
