@@ -1,5 +1,5 @@
 # Fab-lous-sales
-[![NPM](http://img.shilds.io/npm/1/react)] https://github.com/FabianoCarregas/project-fullstack/blob/add-license-1/LICENSE
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/FabianoCarregas/project-fullstack/blob/add-license-1/LICENSE)
 
 # Fab-lous-sales   
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/neliocursos/exemplo-readme/blob/main/LICENSE) 
